@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as Login } from "./Login";
+export { default as Parties } from "./parties/Parties";
+export { default as AddParty } from "./parties/AddParty";
+export { default as Candidates } from "./candidates/Candidates";
+export { default as AddCandidate } from "./candidates/AddCandidate";
+export { default as Results } from "./results/Results";
+export { default as AddResult } from "./results/AddResult";
+export { default as Tables } from "./tables/Tables";
+export { default as AddTable } from "./tables/AddTable";
